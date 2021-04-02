@@ -1,0 +1,9 @@
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\BadgingSystemRepo\bin\Debug\BadgingSystemRepo.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\BadgingSystemRepo\bin\Debug\BadgingSystemRepo.pdb
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\BadgingSystemRepo\bin\Debug\BadgingSystem.Data.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\BadgingSystemRepo\bin\Debug\BadgingSystem.Data.pdb
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\BadgingSystemRepo\obj\Debug\BadgingSystemRepo.csproj.CoreCompileInputs.cache
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\BadgingSystemRepo\obj\Debug\BadgingSystemRepo.csproj.CopyComplete
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\BadgingSystemRepo\obj\Debug\BadgingSystemRepo.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\BadgingSystemRepo\obj\Debug\BadgingSystemRepo.pdb
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\BadgingSystemRepo\obj\Debug\BadgingSystemRepo.csprojAssemblyReference.cache

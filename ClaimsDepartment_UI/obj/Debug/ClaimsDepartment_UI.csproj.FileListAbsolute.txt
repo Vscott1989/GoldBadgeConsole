@@ -1,0 +1,12 @@
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment_UI\bin\Debug\ClaimsDepartment_UI.exe.config
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment_UI\bin\Debug\ClaimsDepartment_UI.exe
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment_UI\bin\Debug\ClaimsDepartment_UI.pdb
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment_UI\bin\Debug\ClaimsDepartment.Data.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment_UI\bin\Debug\ClaimsDepartmentRepository.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment_UI\bin\Debug\ClaimsDepartment.Data.pdb
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment_UI\bin\Debug\ClaimsDepartmentRepository.pdb
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment_UI\obj\Debug\ClaimsDepartment_UI.csprojAssemblyReference.cache
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment_UI\obj\Debug\ClaimsDepartment_UI.csproj.CoreCompileInputs.cache
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment_UI\obj\Debug\ClaimsDepartment_UI.csproj.CopyComplete
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment_UI\obj\Debug\ClaimsDepartment_UI.exe
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment_UI\obj\Debug\ClaimsDepartment_UI.pdb

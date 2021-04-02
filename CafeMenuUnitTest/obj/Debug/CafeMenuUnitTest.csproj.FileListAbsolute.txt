@@ -1,0 +1,2 @@
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenuUnitTest\obj\Debug\CafeMenuUnitTest.csprojAssemblyReference.cache
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenuUnitTest\obj\Debug\CafeMenuUnitTest.csproj.CoreCompileInputs.cache

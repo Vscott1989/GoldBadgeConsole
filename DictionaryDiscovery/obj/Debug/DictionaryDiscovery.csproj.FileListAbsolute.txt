@@ -1,0 +1,10 @@
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\DictionaryDiscovery\bin\Debug\DictionaryDiscovery.exe.config
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\DictionaryDiscovery\bin\Debug\DictionaryDiscovery.exe
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\DictionaryDiscovery\bin\Debug\DictionaryDiscovery.pdb
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\DictionaryDiscovery\bin\Debug\BadgingSystem.Data.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\DictionaryDiscovery\bin\Debug\BadgingSystem.Data.pdb
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\DictionaryDiscovery\obj\Debug\DictionaryDiscovery.csprojAssemblyReference.cache
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\DictionaryDiscovery\obj\Debug\DictionaryDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\DictionaryDiscovery\obj\Debug\DictionaryDiscovery.csproj.CopyComplete
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\DictionaryDiscovery\obj\Debug\DictionaryDiscovery.exe
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\DictionaryDiscovery\obj\Debug\DictionaryDiscovery.pdb

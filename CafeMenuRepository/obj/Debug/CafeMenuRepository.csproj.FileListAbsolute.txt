@@ -1,0 +1,9 @@
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenuRepository\bin\Debug\CafeMenuRepository.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenuRepository\bin\Debug\CafeMenuRepository.pdb
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenuRepository\bin\Debug\CafeMenu.Data.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenuRepository\bin\Debug\CafeMenu.Data.pdb
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenuRepository\obj\Debug\CafeMenuRepository.csprojAssemblyReference.cache
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenuRepository\obj\Debug\CafeMenuRepository.csproj.CoreCompileInputs.cache
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenuRepository\obj\Debug\CafeMenuRepository.csproj.CopyComplete
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenuRepository\obj\Debug\CafeMenuRepository.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenuRepository\obj\Debug\CafeMenuRepository.pdb

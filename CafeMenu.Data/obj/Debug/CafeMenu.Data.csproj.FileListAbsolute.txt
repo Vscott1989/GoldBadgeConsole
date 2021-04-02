@@ -1,0 +1,6 @@
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenu.Data\bin\Debug\CafeMenu.Data.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenu.Data\bin\Debug\CafeMenu.Data.pdb
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenu.Data\obj\Debug\CafeMenu.Data.csprojAssemblyReference.cache
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenu.Data\obj\Debug\CafeMenu.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenu.Data\obj\Debug\CafeMenu.Data.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\CafeMenu.Data\obj\Debug\CafeMenu.Data.pdb

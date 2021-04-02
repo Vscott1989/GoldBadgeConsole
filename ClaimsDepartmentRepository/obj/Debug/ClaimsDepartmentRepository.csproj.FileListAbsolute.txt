@@ -1,0 +1,9 @@
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartmentRepository\bin\Debug\ClaimsDepartmentRepository.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartmentRepository\bin\Debug\ClaimsDepartmentRepository.pdb
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartmentRepository\bin\Debug\ClaimsDepartment.Data.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartmentRepository\bin\Debug\ClaimsDepartment.Data.pdb
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartmentRepository\obj\Debug\ClaimsDepartmentRepository.csprojAssemblyReference.cache
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartmentRepository\obj\Debug\ClaimsDepartmentRepository.csproj.CoreCompileInputs.cache
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartmentRepository\obj\Debug\ClaimsDepartmentRepository.csproj.CopyComplete
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartmentRepository\obj\Debug\ClaimsDepartmentRepository.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartmentRepository\obj\Debug\ClaimsDepartmentRepository.pdb

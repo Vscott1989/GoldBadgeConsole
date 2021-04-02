@@ -1,0 +1,5 @@
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment.Data\bin\Debug\ClaimsDepartment.Data.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment.Data\bin\Debug\ClaimsDepartment.Data.pdb
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment.Data\obj\Debug\ClaimsDepartment.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment.Data\obj\Debug\ClaimsDepartment.Data.dll
+C:\Users\Nessa\source\repos\GoldBadgeChallenge\GoldBadgeChallenge\ClaimsDepartment.Data\obj\Debug\ClaimsDepartment.Data.pdb
